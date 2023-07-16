@@ -1,0 +1,62 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos de saída de depuração
+*.exe
+*.pdb
+*.dll
+*.manifest
+
+# Arquivos temporários
+*.user
+*.suo
+*.tmp
+*.bak
+
+# Arquivos de configuração
+*.config
+
+# Arquivos de log
+*.log
+
+# Arquivos de cache
+ipch/
+*.aps
+*.cache
+
+# Visual Studio files
+.vs/
+*.sln.docstates
+
+# Outros arquivos gerados
+[Tt]humbs.db
+*.DS_Store
+
+# Arquivos específicos do Visual Studio
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+*.opensdf
+*.suo
+*.cachefile
+*.ilk
+*.log
+*.tlog
+*.tlog.lock
+*.vbw
+*.vspscc
+*.vssscc
+*.xap
+*.xap.packaging
+*.xml.publish.cs
+*.publish.xml
+*.publish.csproj
+
+# Visual Studio temp something
+.vs/
+
+# Visual Studio Code
+.vscode/
+
